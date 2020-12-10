@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/monzoor-morshed) 
 <!--
 **monzoor/monzoor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
